@@ -1,39 +1,37 @@
-# 阿璐生产注意事项！
-
-<!-- 颜色说明：0越绿 → 5越红（使用内联样式，GitHub/大多数Markdown渲染器可用） -->
+<!-- GitHub 不支持内联 style，采用 emoji 渐变：0=🟩 1=🟢 2=🟨 3=🟧 4=🟥 5=🔴 -->
 **Remark 量表（医生参与度 0–5）**  
--  <span style="background:#E6F4EA;color:#0B6B35;border:1px solid #A7E3B0;border-radius:999px;padding:0 .55em;font-weight:700;">0</span> 自主处理  
--  <span style="background:#DCFCE7;color:#166534;border:1px solid #86EFAC;border-radius:999px;padding:0 .55em;font-weight:700;">1</span> 自主为主（必要时电话咨询）  
-- <span style="background:#FEF9C3;color:#854D0E;border:1px solid #FDE68A;border-radius:999px;padding:0 .55em;font-weight:700;">2</span> 自主 + 护理复核  
-- <span style="background:#FFF4E5;color:#9A3412;border:1px solid #FEE3C0;border-radius:999px;padding:0 .55em;font-weight:700;">3</span> 护理主导（现场评估/操作）  
-- <span style="background:#FFE4E6;color:#9F1239;border:1px solid #FECDD3;border-radius:999px;padding:0 .55em;font-weight:700;">4</span> 医师参与/医嘱  
-- <span style="background:#FEE2E2;color:#991B1B;border:1px solid #FCA5A5;border-radius:999px;padding:0 .55em;font-weight:700;">5</span> 医疗团队/紧急
+- 🟩 **0** 自主处理  
+- 🟢 **1** 自主为主（必要时电话咨询）  
+- 🟨 **2** 自主 + 护理复核  
+- 🟧 **3** 护理主导（现场评估/操作）  
+- 🟥 **4** 医师参与/医嘱  
+- 🔴 **5** 医疗团队/紧急
 
 ---
 
 ## A. 速查清单（给产妇 & 家属）
 
 ### 1）何时去医院
-- 达到 **4-1-1 / 5-1-1**（每4/5分钟一次、每次≈1分钟、持续1小时）【<span style="background:#DCFCE7;color:#166534;border:1px solid #86EFAC;border-radius:999px;padding:0 .55em;font-weight:700;">1</span>】
-- **破水**（尤其绿色/臭味/伴发热）、**阴道鲜红大量出血**、**胎动明显减少**【<span style="background:#FEE2E2;color:#991B1B;border:1px solid #FCA5A5;border-radius:999px;padding:0 .55em;font-weight:700;">3–5</span>】
+- 达到 **4-1-1 / 5-1-1**（每4/5分钟一次、每次≈1分钟、持续1小时）【🟢 1】
+- **破水**（尤其绿色/臭味/伴发热）、**阴道鲜红大量出血**、**胎动明显减少**【🟧 3–🔴 5】
 
 ### 2）产中三件事
-- **呼气变长**（鼻吸口呼，阵前/阵后大叹气）【<span style="background:#DCFCE7;color:#166534;border:1px solid #86EFAC;border-radius:999px;padding:0 .55em;font-weight:700;">1</span>】
-- **多变体位**（走动/前倾/侧卧/四点跪；每2–4小时提醒排尿）【<span style="background:#FEF9C3;color:#854D0E;border:1px solid #FDE68A;border-radius:999px;padding:0 .55em;font-weight:700;">2</span>】
-- **需要时求助**（疼痛管理/监护调整/干预评估）【<span style="background:#FFE4E6;color:#9F1239;border:1px solid #FECDD3;border-radius:999px;padding:0 .55em;font-weight:700;">3–4</span>】
+- **呼气变长**（鼻吸口呼，阵前/阵后大叹气）【🟢 1】
+- **多变体位**（走动/前倾/侧卧/四点跪；每2–4小时提醒排尿）【🟨 2】
+- **需要时求助**（疼痛管理/监护调整/干预评估）【🟧 3–🟥 4】
 
 ### 3）破水但未入产程
-- 立刻**打电话**记录时间/颜色/体温；用卫生巾、禁阴道内行为；可淋浴【<span style="background:#FFF4E5;color:#9A3412;border:1px solid #FEE3C0;border-radius:999px;padding:0 .55em;font-weight:700;">3</span>】 
+- 立刻**打电话**记录时间/颜色/体温；用卫生巾、禁阴道内行为；可淋浴【🟧 3】 
 
 ### 4）“无痛分娩”（硬膜外）关键点
-- **时机灵活**；置管时**弓背不动**；持续监测血压/胎心；可能需导尿【<span style="background:#FFE4E6;color:#9F1239;border:1px solid #FECDD3;border-radius:999px;padding:0 .55em;font-weight:700;">4</span>】
+- **时机灵活**；置管时**弓背不动**；持续监测血压/胎心；可能需导尿【🟥 4】
 
 ### 5）产后 6 小时与恶露警戒
-- **6小时内排尿**或拔管后6小时内应能自行排尿【<span style="background:#FFF4E5;color:#9A3412;border:1px solid #FEE3C0;border-radius:999px;padding:0 .55em;font-weight:700;">3</span>】
-- 1小时浸透≥1大垫、鸡蛋大血块、恶臭/发热→**立即报告**【<span style="background:#FEE2E2;color:#991B1B;border:1px solid #FCA5A5;border-radius:999px;padding:0 .55em;font-weight:700;">3–5</span>】
+- **6小时内排尿**或拔管后6小时内应能自行排尿【🟧 3】
+- 1小时浸透≥1大垫、鸡蛋大血块、恶臭/发热→**立即报告**【🟧 3–🔴 5】
 
 ### 6）紧急“POST-BIRTH”清单（任一条立即就医）
-- P 胸痛｜O 呼吸受阻｜S 抽搐｜T 自/伤念头｜B 大出血｜I 切口红肿渗液｜R 单侧小腿痛｜T 发热｜H 严重头痛/视觉异常【<span style="background:#FEE2E2;color:#991B1B;border:1px solid #FCA5A5;border-radius:999px;padding:0 .55em;font-weight:700;">5</span>】
+- P 胸痛｜O 呼吸受阻｜S 抽搐｜T 自/伤念头｜B 大出血｜I 切口红肿渗液｜R 单侧小腿痛｜T 发热｜H 严重头痛/视觉异常【🔴 5】
 - **P** 胸痛（Pain in chest）｜**O** 呼吸受阻（Obstructed breathing）｜**S** 抽搐（Seizure）｜**T** 自/伤念头  
 - **B** 大出血（Bleeding）｜**I** 切口红肿渗液（Incision issues）｜**R** 单侧小腿红肿痛（Red leg pain）  
 - **T** 发热（Temperature）｜**H** 严重头痛/视觉异常（Headache/vision）
@@ -43,47 +41,47 @@
 ## B. 详细档案（注意事项 × 解决方法 × Remark）
 
 ### 0. 量表（复述便于速查）
-**0** <span style="background:#E6F4EA;color:#0B6B35;border:1px solid #A7E3B0;border-radius:999px;padding:0 .55em;font-weight:700;">0</span> ｜ **1** <span style="background:#DCFCE7;color:#166534;border:1px solid #86EFAC;border-radius:999px;padding:0 .55em;font-weight:700;">1</span> ｜ **2** <span style="background:#FEF9C3;color:#854D0E;border:1px solid #FDE68A;border-radius:999px;padding:0 .55em;font-weight:700;">2</span> ｜ **3** <span style="background:#FFF4E5;color:#9A3412;border:1px solid #FEE3C0;border-radius:999px;padding:0 .55em;font-weight:700;">3</span> ｜ **4** <span style="background:#FFE4E6;color:#9F1239;border:1px solid #FECDD3;border-radius:999px;padding:0 .55em;font-weight:700;">4</span> ｜ **5** <span style="background:#FEE2E2;color:#991B1B;border:1px solid #FCA5A5;border-radius:999px;padding:0 .55em;font-weight:700;">5</span>
+**0** 🟩 ｜ **1** 🟢 ｜ **2** 🟨 ｜ **3** 🟧 ｜ **4** 🟥 ｜ **5** 🔴
 
 ---
 
 ## 1. 产前 / 入院前
 
-### 1.1 产兆识别（规律宫缩、见红、破水、胎动异常）【<span style="background:#FEF9C3;color:#854D0E;border:1px solid #FDE68A;border-radius:999px;padding:0 .55em;font-weight:700;">2</span>】
+### 1.1 产兆识别（规律宫缩、见红、破水、胎动异常）【🟨 2】
 - **你要做**：区分真性宫缩（更痛更密更长，活动/热水不缓解）；监测胎动基线。  
 - **何时求医**：破水、鲜红出血、胎动减少、任何“不对劲”。  
 - **家属任务**：准备交通/医院电话；记录症状出现时间。
 
-### 1.2 宫缩计时（4-1-1 / 5-1-1）【<span style="background:#DCFCE7;color:#166534;border:1px solid #86EFAC;border-radius:999px;padding:0 .55em;font-weight:700;">1</span>】
+### 1.2 宫缩计时（4-1-1 / 5-1-1）【🟢 1】
 - **步骤**：一阵开始→记**持续**→到下一阵开始的**间隔**→连测5–6阵判断是否达标。  
 - **工具**：手机App/纸笔；规律性↑、强度↑更可信。
 
-### 1.3 呼吸与放松（鼻吸口呼、延长呼气）【<span style="background:#DCFCE7;color:#166534;border:1px solid #86EFAC;border-radius:999px;padding:0 .55em;font-weight:700;">1</span>】
+### 1.3 呼吸与放松（鼻吸口呼、延长呼气）【🟢 1】
 - 阵前**大叹气**→**鼻吸4**、**口呼6–8**→阵末再叹气；下颌放松、像“吹蜡烛”。
 
-### 1.4 促开指的非药物措施【<span style="background:#FEF9C3;color:#854D0E;border:1px solid #FDE68A;border-radius:999px;padding:0 .55em;font-weight:700;">2</span>】
+### 1.4 促开指的非药物措施【🟨 2】
 - 直立/前倾/四点跪/侧卧、分娩球、走动；**2–4小时排尿**。  
 - 一产程可温水淋浴/（允许时）水中待产；热敷下背/会阴。  
 - **谨慎**：乳头刺激先与助产士确认。
 
-### 1.5 疼痛最小化（非药物）【<span style="background:#FEF9C3;color:#854D0E;border:1px solid #FDE68A;border-radius:999px;padding:0 .55em;font-weight:700;">2</span>】
+### 1.5 疼痛最小化（非药物）【🟨 2】
 - 热/冷敷、按摩/反压力、音乐、[TENS](https://baike.baidu.com/item/%E7%97%9B%E7%BB%8F%E7%9A%84%E7%94%B5%E5%88%BA%E6%BF%80%28TENS%29%E6%AD%A2%E7%97%9B%E6%B3%95/16546842)、芳香（遵医嘱）；家属学[背压/髂嵴按压点](https://www.haodf.com/neirong/wenzhang/585337985.html)。
 
-### 1.6 “无痛分娩”（硬膜外）【<span style="background:#FFE4E6;color:#9F1239;border:1px solid #FECDD3;border-radius:999px;padding:0 .55em;font-weight:700;">4</span>】
+### 1.6 “无痛分娩”（硬膜外）【🟥 4】
 - **时机**：活跃期或疼痛难耐可申请（依院规/评估）。  
 - **流程**：签同意→坐位/侧卧**弓背不动**→置管→持续监测血压/胎心。  
 - **可能**：低血压、发热、寒战、瘙痒；少见**硬膜穿破后头痛**（可血贴）。  
 - **你要做**：如实告知**出血史/抗凝/血小板**；置管/加药时不动；异常及时报告。
 
-### 1.7 破水但未入产程【<span style="background:#FFF4E5;color:#9A3412;border:1px solid #FEE3C0;border-radius:999px;padding:0 .55em;font-weight:700;">3</span>】
+### 1.7 破水但未入产程【🟧 3】
 - 记录**时间/颜色/气味**，清醒时**每4小时测体温**；用卫生巾、勤更换；**禁阴道内行为**。  
 - 足月PROM多需入院评估；若等待入产程，遵医嘱在**限定时间**内复查/考虑引产。
 
-### 1.8 饮食与补水【<span style="background:#FEF9C3;color:#854D0E;border:1px solid #FDE68A;border-radius:999px;padding:0 .55em;font-weight:700;">2–4</span>】
+### 1.8 饮食与补水【🟨 2–🟥 4】
 - 居家：少量多次易消化 + **电解质饮品**。  
 - 入院后：多数**清流质**；固体依风险/麻醉策略；计划剖宫/高风险按**禁食**执行。
 
-### 1.9 待产包【<span style="background:#E6F4EA;color:#0B6B35;border:1px solid #A7E3B0;border-radius:999px;padding:0 .55em;font-weight:700;">0</span>】
+### 1.9 待产包【🟩 0】
 - 证件/产检本/分娩计划；开襟衣、产褥垫、乳垫、一次性内裤；洗漱、吸管杯、充电器；  
 - 宝宝出院衣物/纸尿裤/湿巾/包被；**安全座椅**提前安装。
 
@@ -91,20 +89,20 @@
 
 ## 2. 生产中 / 住院期
 
-### 2.1 监护与干预选择【<span style="background:#FFE4E6;color:#9F1239;border:1px solid #FECDD3;border-radius:999px;padding:0 .55em;font-weight:700;">3–4</span>】
+### 2.1 监护与干预选择【🟧 3–🟥 4】
 - 低风险可间歇听胎心；高风险/指征用持续CTG。  
 - 人工破膜/催产素/器械助产/剖宫产需**知情同意**。
 
-### 2.2 活动、饮水与体位【<span style="background:#FEF9C3;color:#854D0E;border:1px solid #FDE68A;border-radius:999px;padding:0 .55em;font-weight:700;">2–3</span>】
+### 2.2 活动、饮水与体位【🟨 2–🟧 3】
 - 允许时**自由体位/走动**、**清流质**；避免长期仰卧，试侧卧/四点跪/半蹲/床边坐。  
 - 每**2–4小时**上厕所，防膀胱胀满影响先露下降。
 
-### 2.3 第二产程用力与保护会阴【<span style="background:#FFF4E5;color:#9A3412;border:1px solid #FEE3C0;border-radius:999px;padding:0 .55em;font-weight:700;">3</span>】
+### 2.3 第二产程用力与保护会阴【🟧 3】
 - **顺应便意**，宫缩高峰**随呼气用力**（开放气道，不长憋气）。  
 - 体位：侧卧/四点跪/分娩凳/半蹲（硬膜外亦可床上变换）。  
 - 助产士**温热敷会阴**、缓慢控头；必要时“喘—停—慢呼”。
 
-### 2.4 新生儿即刻处理与脐带管理【<span style="background:#FFE4E6;color:#9F1239;border:1px solid #FECDD3;border-radius:999px;padding:0 .55em;font-weight:700;">3–4</span>】
+### 2.4 新生儿即刻处理与脐带管理【🟧 3–🟥 4】
 - **延迟断脐**（≥1分钟或依院规）、**肌肤接触**、**黄金一小时**启乳。  
 - 产妇常规**缩宫素**预防出血；新生儿**维生素K**注射。
 
@@ -112,36 +110,36 @@
 
 ## 3. 产后住院（0–72 小时）
 
-### 3.1 恶露与出血观察【<span style="background:#FFF4E5;color:#9A3412;border:1px solid #FEE3C0;border-radius:999px;padding:0 .55em;font-weight:700;">3</span>】
+### 3.1 恶露与出血观察【🟧 3】
 - 正常：红→粉→褐/黄白，量渐少，无臭。  
 - Red Flag：1小时浸透≥1大垫、鸡蛋大血块、恶臭/发热→**立刻报告**。
 
-### 3.2 排尿（“6小时规则”）【<span style="background:#FFF4E5;color:#9A3412;border:1px solid #FEE3C0;border-radius:999px;padding:0 .55em;font-weight:700;">3</span>】
+### 3.2 排尿（“6小时规则”）【🟧 3】
 - 目标：分娩后6小时内/拔管后6小时内**自行排尿**。  
 - 困难：少量多次饮水、温水刺激、下床活动；仍不行→护士评估**尿潴留**（可能暂导尿）。
 
-### 3.3 下床活动与防跌倒【<span style="background:#FFF4E5;color:#9A3412;border:1px solid #FEE3C0;border-radius:999px;padding:0 .55em;font-weight:700;">3</span>】
+### 3.3 下床活动与防跌倒【🟧 3】
 - 先**翻身→坐起**（看是否头晕）→站立→短距离步行，**有人搀扶**。  
 - 剖宫产按[ERAS](https://www.aana.com/practice/clinical-practice/clinical-practice-resources/enhanced-recovery-after-surgery/) **尽早活动**，利排气/防血栓。
 
-### 3.4 进食与补水【<span style="background:#FEF9C3;color:#854D0E;border:1px solid #FDE68A;border-radius:999px;padding:0 .55em;font-weight:700;">2–3</span>】
+### 3.4 进食与补水【🟨 2–🟧 3】
 - 阴道分娩：一般**随意进食**（先清淡）。  
 - 剖宫产：多院ERAS，**尽早饮水/进食**（先清流质，耐受后固体）。
 
-### 3.5 疼痛管理【<span style="background:#FFE4E6;color:#9F1239;border:1px solid #FECDD3;border-radius:999px;padding:0 .55em;font-weight:700;">3–4</span>】
+### 3.5 疼痛管理【🟧 3–🟥 4】
 - 对乙酰氨基酚 + 布洛芬**按时轮换**；必要时短期弱阿片（遵医嘱）。  
 - 哺乳期一般安全；过敏/肝肾问题个体评估。
 
-### 3.6 会阴/切口护理与清洁【<span style="background:#FEF9C3;color:#854D0E;border:1px solid #FDE68A;border-radius:999px;padding:0 .55em;font-weight:700;">2–3</span>】
+### 3.6 会阴/切口护理与清洁【🟨 2–🟧 3】
 - 会阴：前24h冰敷，其后温敷/坐浴；**金缕梅** (Hamamelis virginiana/Witch Hazel)；干燥透气。  
 - 切口：保持干燥、按医嘱换药；红肿渗液/开裂/发热→复查。  
 - 清洁：可**淋浴**；会阴冲洗瓶**自前向后**，轻拍干；未愈合不泡浴。
 
-### 3.7 母乳喂养与泌乳支持【<span style="background:#FEF9C3;color:#854D0E;border:1px solid #FDE68A;border-radius:999px;padding:0 .55em;font-weight:700;">2–3</span>】
+### 3.7 母乳喂养与泌乳支持【🟨 2–🟧 3】
 - 24小时**8–12次**；看**含接**、吞咽、体重与湿/脏尿布（第5天起≥6湿）。  
 - 胀痛/堵奶→按需排乳、冷热敷、调含接；**发热寒战/条索红肿**警惕乳腺炎→就医。
 
-### 3.8 情绪与复诊计划【<span style="background:#FFF4E5;color:#9A3412;border:1px solid #FEE3C0;border-radius:999px;padding:0 .55em;font-weight:700;">3</span>】
+### 3.8 情绪与复诊计划【🟧 3】
 - **3周内联系**产科，**12周内全面复诊**。  
 - 情绪低落>2周、焦虑/绝望、自/伤念头→**紧急就医**。
 
@@ -149,19 +147,19 @@
 
 ## 4. 常见不适与对策
 
-### 4.1 下体疼痛/坐躺痛【<span style="background:#FEF9C3;color:#854D0E;border:1px solid #FDE68A;border-radius:999px;padding:0 .55em;font-weight:700;">2–3</span>】
+### 4.1 下体疼痛/坐躺痛【🟨 2–🟧 3】
 - 对乙酰氨基酚+布洛芬、冰→温、U型枕/侧卧、温水坐浴、金缕梅 (Hamamelis virginiana/Witch Hazel)；难控或渗液异味→复查。
 
-### 4.2 全身酸痛/牙齿与骨骼酸【<span style="background:#E6F4EA;color:#0B6B35;border:1px solid #A7E3B0;border-radius:999px;padding:0 .55em;font-weight:700;">1–2</span>】
+### 4.2 全身酸痛/牙齿与骨骼酸【🟩 1–🟨 2】
 - 规律止痛、热敷、轻拉伸、睡眠管理、补水营养；伴**剧烈头痛/视觉异常**需排除高血压并发症或PDPH （硬膜穿刺后头痛）。
 
-### 4.3 便秘/痔疮【<span style="background:#FEF9C3;color:#854D0E;border:1px solid #FDE68A;border-radius:999px;padding:0 .55em;font-weight:700;">2–3</span>】
+### 4.3 便秘/痔疮【🟨 2–🟧 3】
 - 多饮水、高纤维、早活动；软便剂/外用痔药；排便时枕头支撑会阴/切口。
 
-### 4.4 乳房胀痛/疑似乳腺炎【<span style="background:#FFE4E6;color:#9F1239;border:1px solid #FECDD3;border-radius:999px;padding:0 .55em;font-weight:700;">3–4</span>】
+### 4.4 乳房胀痛/疑似乳腺炎【🟧 3–🟥 4】
 - 按需排乳、冷热敷、合身内衣；发热寒战/条索红肿→就医考虑抗生素。
 
-### 4.5 口渴/补水【<span style="background:#E6F4EA;color:#0B6B35;border:1px solid #A7E3B0;border-radius:999px;padding:0 .55em;font-weight:700;">1–2</span>】
+### 4.5 口渴/补水【🟩 1–🟨 2】
 - 少量多次温水/电解质饮品；若有限水由医生按计划调整。
 
 ---
@@ -169,27 +167,27 @@
 ## 5. 家人/陪护“盯着提醒”任务表（打印打勾）
 
 ### 5.1 入院—分娩中
-- [ ] 宫缩计时、记录**破水时间/颜色/体温**【<span style="background:#DCFCE7;color:#166534;border:1px solid #86EFAC;border-radius:999px;padding:0 .55em;font-weight:700;">1–3</span>】
-- [ ] 每**2–4小时**提醒上厕所【<span style="background:#FEF9C3;color:#854D0E;border:1px solid #FDE68A;border-radius:999px;padding:0 .55em;font-weight:700;">2</span>】
-- [ ] 协助体位变换/热敷/背压【<span style="background:#FEF9C3;color:#854D0E;border:1px solid #FDE68A;border-radius:999px;padding:0 .55em;font-weight:700;">2</span>】
-- [ ] 硬膜外/置管时**协助稳姿**【<span style="background:#FFE4E6;color:#9F1239;border:1px solid #FECDD3;border-radius:999px;padding:0 .55em;font-weight:700;">3–4</span>】
-- [ ] 任何异常（胎动变化、发热、出血）**立刻通知**护士【<span style="background:#FEE2E2;color:#991B1B;border:1px solid #FCA5A5;border-radius:999px;padding:0 .55em;font-weight:700;">3–5</span>】
+- [ ] 宫缩计时、记录**破水时间/颜色/体温**【🟢 1–🟧 3】
+- [ ] 每**2–4小时**提醒上厕所【🟨 2】
+- [ ] 协助体位变换/热敷/背压【🟨 2】
+- [ ] 硬膜外/置管时**协助稳姿**【🟧 3–🟥 4】
+- [ ] 任何异常（胎动变化、发热、出血）**立刻通知**护士【🟧 3–🔴 5】
 
 ### 5.2 产后 0–24 小时
-- [ ] **每小时**查看恶露与子宫压痛【<span style="background:#FFF4E5;color:#9A3412;border:1px solid #FEE3C0;border-radius:999px;padding:0 .55em;font-weight:700;">3</span>】
-- [ ] 记录**首次排尿**（≤6小时）及尿量【<span style="background:#FFF4E5;color:#9A3412;border:1px solid #FEE3C0;border-radius:999px;padding:0 .55em;font-weight:700;">3</span>】
-- [ ] 按时递水/电解质、记录止痛药用药【<span style="background:#FEF9C3;color:#854D0E;border:1px solid #FDE68A;border-radius:999px;padding:0 .55em;font-weight:700;">2–3</span>】
-- [ ] 协助**先坐后站**下床，防跌倒【<span style="background:#FFF4E5;color:#9A3412;border:1px solid #FEE3C0;border-radius:999px;padding:0 .55em;font-weight:700;">3</span>】
+- [ ] **每小时**查看恶露与子宫压痛【🟧 3】
+- [ ] 记录**首次排尿**（≤6小时）及尿量【🟧 3】
+- [ ] 按时递水/电解质、记录止痛药用药【🟨 2–🟧 3】
+- [ ] 协助**先坐后站**下床，防跌倒【🟧 3】
 
 ### 5.3 产后 24–72 小时
-- [ ] 记录三次排尿/首次排便【<span style="background:#FEF9C3;color:#854D0E;border:1px solid #FDE68A;border-radius:999px;padding:0 .55em;font-weight:700;">2–3</span>】
-- [ ] 观察会阴/切口红肿渗液/异味【<span style="background:#FEF9C3;color:#854D0E;border:1px solid #FDE68A;border-radius:999px;padding:0 .55em;font-weight:700;">2–3</span>】
-- [ ] 支持**按需母乳**、必要时联系泌乳顾问【<span style="background:#FEF9C3;color:#854D0E;border:1px solid #FDE68A;border-radius:999px;padding:0 .55em;font-weight:700;">2–3</span>】
+- [ ] 记录三次排尿/首次排便【🟨 2–🟧 3】
+- [ ] 观察会阴/切口红肿渗液/异味【🟨 2–🟧 3】
+- [ ] 支持**按需母乳**、必要时联系泌乳顾问【🟨 2–🟧 3】
 
 ### 5.4 出院后 6 周内
-- [ ] 每日关注**恶露/体温/下肢疼肿/情绪**【<span style="background:#FEF9C3;color:#854D0E;border:1px solid #FDE68A;border-radius:999px;padding:0 .55em;font-weight:700;">2–3</span>】
-- [ ] 出现**POST-BIRTH**任一警示**立刻就医**【<span style="background:#FEE2E2;color:#991B1B;border:1px solid #FCA5A5;border-radius:999px;padding:0 .55em;font-weight:700;">5</span>】
-- [ ] 安排**3周内联系 + 12周内全面复诊**【<span style="background:#FFF4E5;color:#9A3412;border:1px solid #FEE3C0;border-radius:999px;padding:0 .55em;font-weight:700;">3</span>】
+- [ ] 每日关注**恶露/体温/下肢疼肿/情绪**【🟨 2–🟧 3】
+- [ ] 出现**POST-BIRTH**任一警示**立刻就医**【🔴 5】
+- [ ] 安排**3周内联系 + 12周内全面复诊**【🟧 3】
 
 ---
 

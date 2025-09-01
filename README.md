@@ -199,6 +199,7 @@
     - OVIATION (妇产科电话) after hour: 2143605565
     - OVIATION (妇产科电话) Maria: 9727773232
     - OVIATION (妇产科电话) Dr. Vu:??? 
+    - 生产医院紧急电话(Firsco Baylor Scott White)：214.407.5310
 ## 6. 记录模板（打印使用）
 
 ### 6.1 破水与体温记录
